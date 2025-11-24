@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nome": "Jovem Pan News",
+    "cidade": "São Paulo/SP",
+    "descricao": "Notícias, política e economia 24h. Traz cobertura ágil e análise de temas nacionais e internacionais, com foco em credibilidade.",
+    "logo": "img/radio_jovempamsp.jpg",
+    "stream": "https://stream-167.zeno.fm/vlcraijc6yiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2bGNyYWlqYzZ5aXV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijh0anFiSG1QUUNPdkhZVHduQ3hhV3ciLCJpYXQiOjE3NDg1NjQwMzMsImV4cCI6MTc0ODU2NDA5M30.wgakePNqoJpC-ubPQoncxOGNFmbr9WcZDLBQZaBY4qI&1748483772334"
+  },
+  {
+    "id": 2,
+    "nome": "Rádio Hits 98.9 FM",
+    "cidade": "Campos/RJ",
+    "descricao": "A rádio que pulsa com o melhor do pop, rock e MPB, cobrindo 26 municípios fluminenses. Focada em música, promoções e alta interatividade.",
+    "logo": "img/radio_redehits98_9.png",
+    "stream": "https://wz7.servidoresbrasil.com:8162/stream?1713146221453"
+  },
+  {
+    "id": 3,
+    "nome": "Rádio Antena 1 94.7",
+    "cidade": "FM - São Paulo/SP",
+    "descricao": "Rádio online mais ouvida do Brasil, com programação sofisticada, 56 minutos de música internacional por hora e intervalos reduzidos.",
+    "logo": "img/radio_antena1_saopaulosp.jpg",
+    "stream": "https://antenaone.crossradio.com.br/stream/1;?1748484906649"
+  },
+  {
+    "id": 4,
+    "nome": "Rádio BandNews SP 96.9 FM",
+    "cidade": "São Paulo/SP",
+    "descricao": "Referência em jornalismo dinâmico e confiável. Notícias atualizadas a cada 20 minutos, com foco em São Paulo, Brasil e mundo.",
+    "logo": "img/radio_bandnewssp96_9fm.png",
+    "stream": "https://26593.live.streamtheworld.com:443/BANDNEWSFM_SPAAC.aac?dist=radios.com.br&amp;1749395158175"
+  },
+  {
+    "id": 5,
+    "nome": "Rádio CBN Brasília 95.3 FM",
+    "cidade": "Brasília/DF",
+    "descricao": "A 'rádio que toca notícia'. Fonte confiável de jornalismo 24 horas por dia, com foco em notícias e análises aprofundadas do DF e do Brasil.",
+    "logo": "img/radio_cbn.png",
+    "stream": "https://26653.live.streamtheworld.com/CBN_BSBAAC.aac?dist=radioscombr&1749090326158"
+  },
+  {
+    "id": 6,
+    "nome": "Rádio Itatiaia 95.7 FM / 610 AM",
+    "cidade": "Belo Horizonte/MG",
+    "descricao": "A 'Rádio de Minas', líder de audiência há 73 anos. Especializada em jornalismo all-news, esportes e futebol, com grande interatividade.",
+    "logo": "img/radio_itatiaia95_7mg.png",
+    "stream": "https://8903.brasilstream.com.br/stream?1758844387330"
+  },
+  {
+    "id": 7,
+    "nome": "Rádio Light 103.9 FM",
+    "cidade": "Belo Horizonte/MG",
+    "descricao": "Estação Adulto-Contemporâneo/Flashback. Oferece 'O que a música tem de melhor' com curadoria de sucessos atemporais.",
+    "logo": "img/radio_light103_9fm_mg.png",
+    "stream": "https://8231.brasilstream.com.br/stream?1759372675373"
+  },
+  {
+    "id": 8,
+    "nome": "Rádio Metropolitana 98.5 FM",
+    "cidade": "São Paulo/SP",
+    "descricao": "A voz jovem e vibrante de SP. Líder em audiência jovem, toca hits pop, sertanejo e funk, com programas de humor icônicos como o Chupim.",
+    "logo": "img/radio_metropolitana_98_5fm_saopaulo.png",
+    "stream": "https://ice.fabricahost.com.br/metropolitana985sp?1757039943077"
+  },
+  {
+    "id": 9,
+    "nome": "Super Rádio Tupi 96.5 FM",
+    "cidade": "Rio de Janeiro/RJ",
+    "descricao": "Mais de 80 anos de história no Rio. Referência em jornalismo dinâmico e esportivo, com programação que celebra a cultura brasileira.",
+    "logo": "img/radio_tupifm96_5.png",
+    "stream": "https://8923.brasilstream.com.br/stream?1749398385344"
+  }
+]

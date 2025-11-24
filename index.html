@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
+    <title>Rádios DevStream</title>
+</head>
+<body>
+    
+    <header>
+        <div class="header-branding">
+            <h1>Rádios<span>DevStream</span></h1>
+            <div class="highlight-tag">Projeto Pessoal - Imersão Dev com Alura e Google</div>
+        </div>
+        <div class="search-box">
+            <input type="text" id="campo-pesquisa" placeholder="Busque por rádio, cidade ou estilo...">
+            <button id="botao-busca" onclick="iniciarBusca()"><i class="fas fa-search"></i></button> 
+        </div>
+    </header>
+
+    <main>
+        <section id="player-area" class="player-container hidden">
+            <div class="glass-panel">
+                <div class="live-tag" id="status-indicator">OFFLINE</div>
+                
+                <div class="player-info">
+                    <img src="img/default.png" alt="Logo Rádio" id="player-logo" class="player-logo">
+                    <div class="text-info">
+                        <h2 id="player-nome">Escolha uma Rádio</h2>
+                        <h3 id="player-cidade">---</h3>
+                    </div>
+                </div>
+
+                <audio id="audio-tag" preload="none"></audio>
+
+                <div class="controls">
+                    <button id="btn-prev" class="secondary-btn"><i class="fas fa-step-backward"></i></button>
+                    
+                    <button id="btn-play-pause" class="primary-btn" onclick="togglePlayPause()">
+                        <i class="fas fa-play" id="icon-play"></i>
+                    </button>
+                    
+                    <button id="btn-next" class="secondary-btn"><i class="fas fa-step-forward"></i></button>
+                </div>
+
+                <div class="extras">
+                    <div class="wave" id="equalizer">
+                        <span></span><span></span><span></span><span></span><span></span>
+                    </div>
+                    
+                    <div class="volume-control">
+                        <i class="fas fa-volume-up"></i>
+                        <input id="volume" type="range" min="0" max="1" step="0.1" value="1" oninput="setVolume()">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="divider">Rádios Disponíveis</div>
+
+        <section class="class-container" id="results-container">
+            <p class="initial-msg">Carregando estações...</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>Emerson Farias - Todos os Direitos Reservados.</li> 
+            <li>|</li>
+            <li><a href="https://github.com/emersonfariasmcz" target="_blank">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/emersonfariasbr/" target="_blank">Linkedin</a></li>
+            <li><a href="https://www.alura.com.br/" target="_blank">Alura</a></li>
+        </ul>
+    </footer>
+
+<script src="script.js"></script>
+</body>
+</html>
