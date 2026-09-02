@@ -6,6 +6,12 @@ O **Rádios Stream** é uma aplicação web que desenvolvi que transforma uma ba
 
 ---
 
+## 🧑‍💻 Visualização do Projeto (Deploy) 
+
+Para visualizar o projeto acesse: https://emersonfariasmcz.github.io/radiosstream/  
+
+---
+
 ## ✨ Funcionalidades e Destaques Técnicos
 
 ### 1. Player de Mídia Interativo (Media Control)
@@ -53,11 +59,7 @@ O **Rádios Stream** é uma aplicação web que desenvolvi que transforma uma ba
 
 Este projeto foi desenvolvido por:
 
-* **Emerson Farias**
+* **[Emerson Farias](https://www.emersonfarias.com.br)**
 * **[GitHub](https://github.com/emersonfariasmcz)**
 * **[LinkedIn](https://www.linkedin.com/in/emersonfariasbr/)**
 
----
-## 🧑‍💻 Visualização do Projeto (Deploy) 
-
-Para visualizar o projeto acesse: https://emersonfariasmcz.github.io/radiosstream/  
