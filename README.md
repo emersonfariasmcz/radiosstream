@@ -55,11 +55,13 @@ Para visualizar o projeto acesse: https://emersonfariasmcz.github.io/radiosstrea
 
 ---
 
-## 🧑‍💻 Desenvolvedor
+## 🧑‍💻 Contato Desenvolvedor
 
 Este projeto foi desenvolvido por:
 
-* **[Emerson Farias](https://www.emersonfarias.com.br)**
-* **[GitHub](https://github.com/emersonfariasmcz)**
-* **[LinkedIn](https://www.linkedin.com/in/emersonfariasbr/)**
+- 💼 **LinkedIn**: [linkedin.com/in/emersonfariasbr](https://www.linkedin.com/in/emersonfariasbr)  
+- 🌐 **Site/Portfólio**: [emersonfarias.com.br](https://www.emersonfarias.com.br)  
+- 💻 **GitHub**: [@emersonfariasmcz](https://github.com/emersonfariasmcz)  
+- 📸 **Instagram**: [@emersonfarias.dev](https://www.instagram.com/emersonfarias.dev)
+- 🎥 **YouTube**: [@emersonfariasdev](https://www.youtube.com/@emersonfariasdev)
 
