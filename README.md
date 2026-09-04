@@ -55,9 +55,7 @@ Para visualizar o projeto acesse: https://emersonfariasmcz.github.io/radiosstrea
 
 ---
 
-## 🧑‍💻 Contato Desenvolvedor
-
-Este projeto foi desenvolvido por:
+## 🧑‍💻 Meu contato - Desenvolvedor Deste Projeto
 
 - 💼 **LinkedIn**: [linkedin.com/in/emersonfariasbr](https://www.linkedin.com/in/emersonfariasbr)  
 - 🌐 **Site/Portfólio**: [emersonfarias.com.br](https://www.emersonfarias.com.br)  
